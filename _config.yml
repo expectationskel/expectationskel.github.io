@@ -21,12 +21,12 @@ repository               : "expectationskel/expectationskel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ekelpic.png"
   name             : "Peter Kelly"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Behavioral finance researcher"
+  location         : "Claremont, CA"
+  employer         : "Claremont McKenna"
   uri              : # URL
   email            : "none@example.org" 
 
